@@ -48,7 +48,7 @@ After downloading the data, I cleaned and manipulated the data for analysis. I m
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/91089401/146479116-631238b2-52e0-4893-8a54-a91bb653f548.png)
 
-![Screenshot (29)](https://user-images.githubusercontent.com/91089401/146479087-838422a0-dd9b-41ea-9179-7880bf4ce653.png) width = "100"
+![Screenshot (29)](https://user-images.githubusercontent.com/91089401/146479087-838422a0-dd9b-41ea-9179-7880bf4ce653.png)
 
 * **What are the top 5 genres (region)?**
  * NA
@@ -77,3 +77,8 @@ ________________________________________________________________________________
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/91089401/146483761-b18c9eff-38d1-42a7-9118-c79f4844eb15.png)
 
+ * Sports
+
+![Screenshot (49)](https://user-images.githubusercontent.com/91089401/146484132-46e65ee0-a914-445c-bc14-87629435fb15.png)
+
+![Screenshot (50)](https://user-images.githubusercontent.com/91089401/146484148-740f9629-91b6-40eb-b872-558fc5e9e575.png)
