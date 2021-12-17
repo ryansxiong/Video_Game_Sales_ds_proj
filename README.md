@@ -146,10 +146,12 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________
 * **What is the top genre for each year?**
 (top genre count)
+
 ![Screenshot (74)](https://user-images.githubusercontent.com/91089401/146489261-7787b6c7-96ef-4ec4-91eb-6a436b694960.png)
 
-![Screenshot (73)](https://user-images.githubusercontent.com/91089401/146489268-263f0e4d-b7ce-4fde-a799-d3692a261c9c.png)
+![Screenshot (76)](https://user-images.githubusercontent.com/91089401/146490108-202c8bf2-417a-4a62-917a-edb397cea5fa.png)
 _________________________________________________________________________________________________________________________________________________________________________________
 * **What is the highest selling game for each year?**
 
+![Screenshot (75)](https://user-images.githubusercontent.com/91089401/146490129-26b4c6bd-818f-40a8-b9ce-dea1ad6edf54.png)
 
