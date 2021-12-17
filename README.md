@@ -11,8 +11,8 @@ The purpose for this project is to use exploratory analysis to understand how th
 
 **Objectives**:
 * **Genre**
-  * What are the top 5 genres (global)?
-  * What are the top 5 genres (region)?
+  * What are the top genres (global)?
+  * What are the top genres (region)?
   * What are the top 5 games (name) for each genre?
   * What is the top genre for each year? 
 * **Sales**
@@ -44,13 +44,13 @@ After downloading the data, I cleaned and manipulated the data for analysis. I m
   * Top publishers (sales)
 
 ## EDA
-* **What are the top 5 genres (global)?**
+* **What are the top genres (global)?**
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/91089401/146479116-631238b2-52e0-4893-8a54-a91bb653f548.png)
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/91089401/146479087-838422a0-dd9b-41ea-9179-7880bf4ce653.png)
 
-* **What are the top 5 genres (region)?**
+* **What are the top genres (region)?**
  * NA
 
 ![Screenshot (39)](https://user-images.githubusercontent.com/91089401/146479757-4c744767-1891-4f27-83d6-ca3e14beecb9.png)
@@ -145,7 +145,11 @@ ________________________________________________________________________________
 ![Screenshot (72)](https://user-images.githubusercontent.com/91089401/146485948-e32c4d59-1de4-4a50-bf61-a1e1510e8661.png)
 _________________________________________________________________________________________________________________________________________________________________________________
 * **What is the top genre for each year?**
-
+(top genre count)
 ![Screenshot (74)](https://user-images.githubusercontent.com/91089401/146489261-7787b6c7-96ef-4ec4-91eb-6a436b694960.png)
 
 ![Screenshot (73)](https://user-images.githubusercontent.com/91089401/146489268-263f0e4d-b7ce-4fde-a799-d3692a261c9c.png)
+_________________________________________________________________________________________________________________________________________________________________________________
+* **What is the highest selling game for each year?**
+
+
