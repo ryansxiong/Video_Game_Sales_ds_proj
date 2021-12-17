@@ -149,7 +149,7 @@ ________________________________________________________________________________
 
 ![Screenshot (74)](https://user-images.githubusercontent.com/91089401/146489261-7787b6c7-96ef-4ec4-91eb-6a436b694960.png)
 
-![Screenshot (76)](https://user-images.githubusercontent.com/91089401/146490108-202c8bf2-417a-4a62-917a-edb397cea5fa.png)
+![Screenshot (77)](https://user-images.githubusercontent.com/91089401/146490310-06c9dce3-8628-408f-942c-ed32f5a75ca9.png)
 _________________________________________________________________________________________________________________________________________________________________________________
 * **What is the highest selling game for each year?**
 
