@@ -44,3 +44,7 @@ After downloading the data, I cleaned and manipulated the data for analysis. I m
   * Top publishers (sales)
 
 ## EDA
+* 
+![Screenshot (30)](https://user-images.githubusercontent.com/91089401/146479116-631238b2-52e0-4893-8a54-a91bb653f548.png)
+
+![Screenshot (29)](https://user-images.githubusercontent.com/91089401/146479087-838422a0-dd9b-41ea-9179-7880bf4ce653.png)
