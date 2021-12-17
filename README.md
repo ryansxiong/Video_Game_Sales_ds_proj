@@ -71,6 +71,7 @@ After downloading the data, I cleaned and manipulated the data for analysis. I m
 
 _________________________________________________________________________________________________________________________________________________________________________________
 * **What are the top 5 games (name) for each genre?**
+ 
  * Action
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/91089401/146483774-cdd521c0-deb1-4c42-b08e-1f05a8a014c9.png)
@@ -82,3 +83,69 @@ ________________________________________________________________________________
 ![Screenshot (49)](https://user-images.githubusercontent.com/91089401/146484132-46e65ee0-a914-445c-bc14-87629435fb15.png)
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/91089401/146484148-740f9629-91b6-40eb-b872-558fc5e9e575.png)
+
+* Misc
+
+![Screenshot (51)](https://user-images.githubusercontent.com/91089401/146484295-e8597474-59a7-4852-ab4b-8cc40e0284b3.png)
+
+![Screenshot (52)](https://user-images.githubusercontent.com/91089401/146484304-a84c5d34-9e0a-40a7-820d-7aaee57ef2fe.png)
+
+* Role-Playing
+
+![Screenshot (53)](https://user-images.githubusercontent.com/91089401/146484407-6417633b-223b-406d-b0c5-a5e0086db9e0.png)
+
+![Screenshot (54)](https://user-images.githubusercontent.com/91089401/146484412-8655dfbd-f4c3-4d56-ac0f-06d710f8dd9d.png)
+
+* Shooter
+
+![Screenshot (55)](https://user-images.githubusercontent.com/91089401/146484546-e0cdf7b3-f837-4fac-9132-cbbc48f1602f.png)
+
+![Screenshot (56)](https://user-images.githubusercontent.com/91089401/146484558-09abab40-c5e7-4b49-8ab1-6ea6e4dfe60c.png)
+
+* Adventure
+
+![Screenshot (57)](https://user-images.githubusercontent.com/91089401/146484665-71a509ae-8c26-40c6-8f52-4daad62438b7.png)
+
+![Screenshot (58)](https://user-images.githubusercontent.com/91089401/146484675-2015d606-8f62-4cbf-83e4-251fcb961a31.png)
+
+* Racing
+
+![Screenshot (59)](https://user-images.githubusercontent.com/91089401/146484803-dde5f534-982d-4253-9c29-47846da7e31d.png)
+
+![Screenshot (60)](https://user-images.githubusercontent.com/91089401/146484812-2d0f8595-29ae-4b47-86ec-46bbc1f45d63.png)
+
+* Platform
+
+![Screenshot (61)](https://user-images.githubusercontent.com/91089401/146484897-d1946aac-845b-4850-bf12-4d0bf370154f.png)
+
+![Screenshot (62)](https://user-images.githubusercontent.com/91089401/146484909-5381c7a7-000b-4480-9223-99c01ca5a6ad.png)
+
+* Simulation
+
+![Screenshot (63)](https://user-images.githubusercontent.com/91089401/146485029-eb906f69-ea4e-43a2-9fd3-c534b7781ca9.png)
+
+![Screenshot (64)](https://user-images.githubusercontent.com/91089401/146485044-a3018f55-c935-4487-a315-cee7e1f8d4ef.png)
+
+* Fighting
+
+![Screenshot (67)](https://user-images.githubusercontent.com/91089401/146485655-97f15c2d-f3f3-437b-8a15-641124271776.png)
+
+![Screenshot (68)](https://user-images.githubusercontent.com/91089401/146485674-8be969fb-81f0-4a48-b21c-45a3a358f3eb.png)
+
+* Strategy
+
+![Screenshot (69)](https://user-images.githubusercontent.com/91089401/146485780-51329655-59a5-4cb0-b0b8-4be8fb7238b4.png)
+
+![Screenshot (70)](https://user-images.githubusercontent.com/91089401/146485790-258639e9-9dd2-4146-9f86-521b2160ba23.png)
+
+* Puzzle
+
+![Screenshot (71)](https://user-images.githubusercontent.com/91089401/146485934-91e91b89-3014-4b3a-b929-21e8e51ab6b4.png)
+
+![Screenshot (72)](https://user-images.githubusercontent.com/91089401/146485948-e32c4d59-1de4-4a50-bf61-a1e1510e8661.png)
+_________________________________________________________________________________________________________________________________________________________________________________
+* **What is the top genre for each year?**
+
+![Screenshot (74)](https://user-images.githubusercontent.com/91089401/146489261-7787b6c7-96ef-4ec4-91eb-6a436b694960.png)
+
+![Screenshot (73)](https://user-images.githubusercontent.com/91089401/146489268-263f0e4d-b7ce-4fde-a799-d3692a261c9c.png)
