@@ -17,8 +17,7 @@ The purpose for this project is to use exploratory analysis to understand how th
   * What is the top genre for each year? 
 * **Sales**
   * What is the highest selling game for each year?
-  * What is the highest selling game (global)?
-  * What is the highest selling game for each (region)?
+  * What are the top 10 games?
 * **Consoles(platform)**
   * What is the top selling console (global)?
   * What are the top selling consoles for every year?
@@ -155,4 +154,10 @@ ________________________________________________________________________________
 * **What is the highest selling game for each year?**
 
 ![Screenshot (75)](https://user-images.githubusercontent.com/91089401/146490129-26b4c6bd-818f-40a8-b9ce-dea1ad6edf54.png)
+_________________________________________________________________________________________________________________________________________________________________________________
+* **What are the top 10 games?**
+
+![Screenshot (78)](https://user-images.githubusercontent.com/91089401/146491630-850fae6d-b9ec-4b69-83ba-59a4aa320653.png)
+
+![Screenshot (79)](https://user-images.githubusercontent.com/91089401/146491641-2e6ee3eb-9708-4d31-91ef-e3cc4cb8a872.png)
 
