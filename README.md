@@ -20,9 +20,9 @@ The purpose for this project is to use exploratory analysis to understand how th
   * What are the top 10 games?
 * **Consoles(platform)**
   * What is the top 5 consoles (global)?
-  * What are the top consoles for each (region)?
+  * What are the top 5 consoles for each (region)?
 * **Publisher**
-  * Which publishers make the most games?
+  * Which publishers made the most games?
   * Which publishers made the most revenue?
 
 ## Data Cleaning
@@ -187,5 +187,18 @@ ________________________________________________________________________________
 
 ![Screenshot (85)](https://user-images.githubusercontent.com/91089401/146492634-53c70491-2699-4238-893f-f2d73204c733.png)
 _________________________________________________________________________________________________________________________________________________________________________________
+### Publisher
+* **Which publishers make the most games?**
+
+![Screenshot (86)](https://user-images.githubusercontent.com/91089401/146494306-cd03c17b-26be-46ca-96ca-612ee5cf2ddc.png)
+
+![Screenshot (87)](https://user-images.githubusercontent.com/91089401/146494316-c48e507f-67e6-4de3-8968-f36b209f3af2.png)
+_________________________________________________________________________________________________________________________________________________________________________________
+* **Which publishers made the most revenue?**
+
+![Screenshot (88)](https://user-images.githubusercontent.com/91089401/146494612-3d356b3d-0d94-4839-9676-0f2f0fcf00b8.png)
+
+![Screenshot (89)](https://user-images.githubusercontent.com/91089401/146494619-5e9638d4-d57d-4511-9aa6-aec81dfcb304.png)
+
 
 
