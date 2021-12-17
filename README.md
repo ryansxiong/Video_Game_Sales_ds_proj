@@ -19,8 +19,7 @@ The purpose for this project is to use exploratory analysis to understand how th
   * What is the highest selling game for each year?
   * What are the top 10 games?
 * **Consoles(platform)**
-  * What is the top selling console (global)?
-  * What are the top selling consoles for every year?
+  * What is the top 5 consoles (global)?
   * What are the top consoles for each (region)?
 * **Publisher**
   * Which publishers make the most games?
@@ -43,6 +42,7 @@ After downloading the data, I cleaned and manipulated the data for analysis. I m
   * Top publishers (sales)
 
 ## EDA
+### Genre
 * **What are the top genres (global)?**
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/91089401/146479116-631238b2-52e0-4893-8a54-a91bb653f548.png)
@@ -151,6 +151,7 @@ ________________________________________________________________________________
 
 ![Screenshot (77)](https://user-images.githubusercontent.com/91089401/146490310-06c9dce3-8628-408f-942c-ed32f5a75ca9.png)
 _________________________________________________________________________________________________________________________________________________________________________________
+### Sales
 * **What is the highest selling game for each year?**
 
 ![Screenshot (75)](https://user-images.githubusercontent.com/91089401/146490129-26b4c6bd-818f-40a8-b9ce-dea1ad6edf54.png)
@@ -160,4 +161,31 @@ ________________________________________________________________________________
 ![Screenshot (78)](https://user-images.githubusercontent.com/91089401/146491630-850fae6d-b9ec-4b69-83ba-59a4aa320653.png)
 
 ![Screenshot (79)](https://user-images.githubusercontent.com/91089401/146491641-2e6ee3eb-9708-4d31-91ef-e3cc4cb8a872.png)
+_________________________________________________________________________________________________________________________________________________________________________________
+### Consoles(Platform)
+* **What are the top 5 selling console (global)?**
+
+![Screenshot (80)](https://user-images.githubusercontent.com/91089401/146491973-062d0c37-fb24-4ca5-a777-5f8e10adbb82.png)
+
+![Screenshot (81)](https://user-images.githubusercontent.com/91089401/146492239-47848307-2181-49f3-9856-0d55508cd294.png)
+_________________________________________________________________________________________________________________________________________________________________________________
+* **What are the top 5 consoles for each (region)?**
+
+  * NA
+
+![Screenshot (82)](https://user-images.githubusercontent.com/91089401/146492448-f7f3e651-67ff-46ee-9077-e6e668c7c8a8.png)
+
+  * EU
+
+![Screenshot (83)](https://user-images.githubusercontent.com/91089401/146492502-e4e9df70-ae9f-49b4-8cd5-aad1b0e2a7ba.png)
+
+  * JP
+
+![Screenshot (84)](https://user-images.githubusercontent.com/91089401/146492563-9181cf6e-9f54-4f56-bf00-91088735c5fe.png)
+
+  * Other
+
+![Screenshot (85)](https://user-images.githubusercontent.com/91089401/146492634-53c70491-2699-4238-893f-f2d73204c733.png)
+_________________________________________________________________________________________________________________________________________________________________________________
+
 
