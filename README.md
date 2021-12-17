@@ -7,7 +7,7 @@
 * **Link to data source**: https://www.kaggle.com/gregorut/videogamesales
 
 ## Overview
-My analysis for video game sales from 1980-2020. Below you find the questions that I predicted stake holders will want to know about the data. I also created an interactive dashboard using tableau.
+The purpose for this project is to use exploratory analysis to understand how the data is distributed and to find insights for future decision-making. My analysis for video game sales are from 1980-2020. Below you find the questions that I predicted stake holders will want to know about the data. I also created an easy to use interactive dashboard using tableau.
 
 **Objectives**:
 * **Genre**
@@ -70,3 +70,8 @@ ________________________________________________________________________________
 ![Screenshot (35)](https://user-images.githubusercontent.com/91089401/146479897-08d521a5-3ab3-4e68-97fa-efdad41564e3.png)
 
 _________________________________________________________________________________________________________________________________________________________________________________
+* **What are the top 5 games (name) for each genre?**
+ * Action
+![Screenshot (46)](https://user-images.githubusercontent.com/91089401/146483774-cdd521c0-deb1-4c42-b08e-1f05a8a014c9.png)
+
+![Screenshot (48)](https://user-images.githubusercontent.com/91089401/146483761-b18c9eff-38d1-42a7-9118-c79f4844eb15.png)
