@@ -42,6 +42,15 @@ After downloading the data, I cleaned and manipulated the data for analysis. I m
   * Top publishers (sales)
 
 ## EDA
+Below you will find a link to an interactive dashboard that I created for this dataset. These are the elements that I added to the dashboard:
+1) I made a graph to represent how the global sales are changing over time.
+2) The user can choose a specific region and year for the "Platform" and "Genre" category, and the chart will change correspondingly.
+3) I also displayed the top 7 platforms and the top 5 genres.
+
+https://public.tableau.com/app/profile/ryan.xiong/viz/VideoGameSalesProject_16405800850660/Dashboard1
+
+<img width="1440" alt="Screen Shot 2022-01-01 at 1 25 58 PM" src="https://user-images.githubusercontent.com/91089401/147860502-6f883900-e058-4ee0-ac91-84a781794d6f.png">
+
 ### Genre
 * **What are the top genres (global)?**
 
